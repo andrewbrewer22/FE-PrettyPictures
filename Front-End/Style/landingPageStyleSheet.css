@@ -4,3 +4,19 @@ body{
 h1{
     color: darkblue;
 }
+#sidebar{
+    position: absolute;
+    right: 50px;
+}
+#listTitle{
+    font-size: 25px;
+}
+ul{
+    list-style: none;
+}
+#splitArticleContainer{
+    display: flex;
+}
+#splitArticle{
+    flex: 2;
+}
