@@ -1,8 +1,9 @@
 body{
     background-color: rgb(219, 153, 146);
 }
-h1{
+#mainHeader{
     color: darkblue;
+    padding-left: 25%;
 }
 #sidebar{
     position: absolute;
@@ -19,4 +20,5 @@ ul{
 }
 #splitArticle{
     flex: 2;
+    margin: auto;
 }

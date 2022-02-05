@@ -1,0 +1,14 @@
+#body{
+    background-color: black;
+}
+#sidebar{
+    position: absolute;
+    right: 50px;
+}
+ul{
+    list-style: none;
+}
+#listTitle{
+    font-size: 25px;
+    color: green;
+}
