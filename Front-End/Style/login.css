@@ -1,7 +1,28 @@
+
+h2{
+    margin-left: 10%;
+    margin-top: 5%;
+    font-family:'Times New Roman', Times, serif;
+}
+
 ul{
     list-style: none;
 }
 #sidebar{
     position: absolute;
     right: 50px;
+}
+#body{
+    background-color: rgb(39, 39, 39);
+}
+#loginSection{
+    margin-left: 50%;
+    margin-right: 50%;
+    margin-top: 25%;
+}
+#register{
+    background-color: white;
+    border: 1px;
+    border-style:solid;
+    border-color: white;
 }

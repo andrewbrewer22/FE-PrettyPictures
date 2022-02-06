@@ -4,20 +4,33 @@
 <head>
     <title>Login</title>
     <link rel="stylesheet" href="../Style/login.css">
+    <script type="text/javascript" src="../JavaScript/login.js"></script>
 </head>
 
-<body>
+<body id="body">
     <section id="headSection">
-        <h3>Login</h3>
+        <h2 id="headerTag">Login</h2>
+
+        <div id="sidebar">
+            <ul>
+                <li><a href="landingPage.html">Landing Page</a></li>
+                <li><a href="demonstration2.html">Demonstration 2</a></li>
+                <!--<li><a href="demonstration3.html">Link 2</a></li>-->
+            </ul>
+            </div>
     </section>
 
-    <div id="sidebar">
-    <ul>
-        <li><a href="landingPage.html">Landing Page</a></li>
-        <li><a href="demonstration2.html">Demonstration 2</a></li>
-        <!--<li><a href="demonstration3.html">Link 2</a></li>-->
-    </ul>
-    </div>
+    <section id="loginSection">
+        <div>
+            <label for="username">Username:</label>
+            <input type="text" id="username" name="username"><br><br>
+            <label for="password">Password</label>
+            <input type="text" id="password" name="password"><br><br>
+            <input type="submit" value="Submit"><br><br>
+            <a href="register.html" id="register" value="Register">Register</a>
+
+        </div>
+    </section>
 
     
 </body>

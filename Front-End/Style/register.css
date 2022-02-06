@@ -1,0 +1,16 @@
+#body{
+    background-color: rgb(39, 39, 39);
+}
+h2{
+    color: rgb(0, 0, 0);
+    background-color: darkgrey;
+}
+#registerSection{
+    margin-top: 10%;
+    margin-left: 50%;
+    margin-right: 50%;
+}
+
+#register{
+    color: antiquewhite;
+}
