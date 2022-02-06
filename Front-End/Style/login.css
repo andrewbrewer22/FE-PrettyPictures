@@ -1,0 +1,7 @@
+ul{
+    list-style: none;
+}
+#sidebar{
+    position: absolute;
+    right: 50px;
+}

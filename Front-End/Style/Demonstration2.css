@@ -8,7 +8,8 @@
 ul{
     list-style: none;
 }
-#listTitle{
+#loginButton{
     font-size: 25px;
-    color: green;
+    color: black;
+    background-color: darkblue;
 }

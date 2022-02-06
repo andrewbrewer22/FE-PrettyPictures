@@ -3,7 +3,7 @@ body{
 }
 #mainHeader{
     color: darkblue;
-    padding-left: 25%;
+    padding-left: 32%;
 }
 #sidebar{
     position: absolute;
@@ -21,4 +21,9 @@ ul{
 #splitArticle{
     flex: 2;
     margin: auto;
+}
+#loginButton{
+    font-size: 25px;
+    color: black;
+    background-color: darkblue;
 }
